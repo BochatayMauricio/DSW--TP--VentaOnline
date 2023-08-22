@@ -18,7 +18,7 @@
 
 ### Modelo
 Presentamos el siguiente DER, que cumple con las reglas de negocio propuestas.
-![imagen del modelo]('https://drive.google.com/file/d/11AA0wYvpriZMYcnujtVh3KU1ldogZcWR/view?usp=sharing');
+'https://drive.google.com/file/d/11AA0wYvpriZMYcnujtVh3KU1ldogZcWR/view?usp=sharing'
 
 ## Alcance Funcional 
 Reglas de Negocio:
